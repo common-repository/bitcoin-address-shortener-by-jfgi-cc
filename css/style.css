@@ -1,0 +1,354 @@
+.jfgi_container{
+    padding-left: 0px;
+    margin-left: -20px;
+    border-radius: 0px;
+}
+.jfgi_jumbotron{
+    text-align: center;
+    font-size: 19px;
+}
+.jfgi_jumbotron{
+    text-align: center;
+    font-size: 19px;
+}
+.jfgi_main_secondary{
+    width: 70%;
+    # background-color: #ededed; 
+    height: auto;
+    margin: 0 auto;
+    #padding: 25px;
+    position: relative;
+    #box-shadow: 0 2px 1px 0 rgba(0, 0, 0, 0.41), 0 0 6px 1px rgba(0, 0, 0, 0.41); */
+    #border-radius: 14px;
+}
+.action{
+    width: 350px;
+}
+.jfgiCenter{
+    text-align: center;
+}
+.jfgiLeft{
+    text-align: left;
+}
+.jfGi_logo{
+    width: 70px;
+    height: 70px;
+}
+.jfgih2Top{
+    font-size: 40px;
+    font-weight: 700;
+    padding: 30px 0 0 30px;
+    
+}
+.jfgiMenu{
+    padding: 5px 25px;
+    margin: 0 5px;
+    font-size: 17px;
+    font-weight: 600;
+}
+.jfgiMenuShadow{
+    -webkit-box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.75);
+}
+.jfgiMenuNoShadow{
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+.jfgi_address{
+    border-radius: 30px !important;
+}
+.jfgi_setupadd{
+    margin-top: 50px;
+    border-radius: 7px;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+}
+.f32{
+    font-size: 32px;
+}
+.f18{
+    font-size: 18px;
+}
+.m40{
+    margin-top: 40px;
+}
+.jfgiSocialShare{
+    text-align: center;
+    
+}
+.jfgiSocialShare a{
+    padding: 0 6px;
+    
+}
+.info2{
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 0;
+}
+.info1{
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.jfgi_linkList{
+    width: 75%;
+    height: auto;
+    margin: 0 auto;
+    padding: 17px;
+    position: relative;
+}    
+.jfgiCopy{
+    display: inline-block;
+    padding: 5px 14px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    margin-left: 11%;
+    height: 30px;
+    line-height: 17px;
+}
+.jfgiLinkContainer{
+    display: flex;
+    margin-bottom: 3%;
+}
+.jfgiLink{
+    height: 30px;
+    width: 75%;
+    border-radius: 15px;
+}
+.jfgi_main th {
+    height: 35px;
+    padding: 8px 10px !important;
+    word-break: break-all;
+}
+.jfgi_main .logHeading th {
+    # border: 1px solid gray !important;
+    height: 35px;
+    padding: 8px 10px !important;
+    word-break: break-all;
+    min-width: 140px;
+}
+.jfgi_main td {
+    min-height: 30px;
+    vertical-align:middle;
+    padding: 8px 10px !important;
+    word-break: break-all;
+    margin-bottom: 0px;
+}
+.jfgi-not-active {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+  color: #5f5d5d !important;
+}
+.jfgi_advance{
+    height: auto;
+    padding: 17px;
+    background-color: #e6e6e6bd;
+}
+.jfgi-support{
+  margin: 60px 0px 30px 30px;
+  width: 46%;
+}
+jfgi-upgrade{
+  width: 100%;
+}
+.jfgi-support iframe{
+    margin-left: 37%;
+}
+.jfgiAlignLeft{
+    text-align: left;
+}
+.jfgi-support h2{
+  padding-top: 10px !important;
+  font-size: 18px !important;
+  font-weight: 600 !important;
+}
+.url_generations_main{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+}
+.jfgi_main_secondary ul.pager li a {
+    display: inline-block;
+    padding: 4px 15px;
+    background-color: #d8d8d8;
+    border: 1px solid #5d5d5d;
+    border-radius: 42px;
+    line-height: normal;
+    font-size: 15px;
+    color: #000;
+}
+.jfgi_main_secondary ul.pager li a:focus {
+    outline: none;
+    border: none;
+}
+.url_generations {
+    width: calc(100%/5);
+    padding: 0 10px;
+    text-align: left;
+    text-align: center;
+}
+.url_generations-box {
+    background-color: #d8d8d86e;
+    border: 1px solid #5d5d5d;
+    text-align: center;
+    padding: 10px;
+    width:  100%;
+    border-radius: 12px;
+    margin-bottom: 12px;
+    height: 275px;
+    #
+    box-shadow: 4px 6px 15px -4px hsla(0, 0%, 0%, 0.7);
+    display:  table;
+}
+.url_generations-box p {margin: 0;font-weight: bold;display:  table-cell;font-size: 20px;vertical-align:  middle;}
+.url_generations label {
+    display: inline-block;
+    vertical-align: -webkit-baseline-middle;
+    margin-left: 3px;
+}
+input[type=radio]:focus { outline: none;}
+.btn-upg-save {
+    padding: 6px 30px;
+    background-color: #d8d8d8;
+    border: 1px solid #5d5d5d;
+    border-radius: 6px;
+    line-height: normal;
+    font-size: 15px;
+    color: #000;
+    transition-duration: 0.6s;
+}
+
+.btn-upg-save:hover,.btn-upg-save:focus {
+    background-color: #5D5D5C;
+    color: #d8d8d8;
+}
+.jfgi_advance p {
+    font-size: 15px;
+    letter-spacing: 0.1px;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+td{
+    font-size: 15px;
+    letter-spacing: 0.1px;
+    margin-bottom: 15px;
+}
+.toplevel_page_jfgi_setup img{
+    padding: 4px 0 0 !important;
+}
+iframe{
+    width: 100%;
+    height: 400px;
+}
+#cboxClose{
+    background-color: #fff;
+    border: 1px solid rgba(35, 35, 35, 0.61);
+}
+#colorbox{
+    border: 1px solid rgba(35, 35, 35, 0.8);
+}
+.jfgiFlex{
+    display: flex;
+}
+.jfgiML{
+    margin-left: 10px;
+}
+.jfgiMR{
+    margin-right: 10px;
+}
+.displaying-num{
+    display: none;
+}
+#confirmBox
+{
+    display: none;
+    background-color: #eee;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    position: fixed;
+    width: 300px;
+    height: 100px;
+    left: 50%;
+    margin-left: -150px;
+    padding: 6px 8px 8px;
+    box-sizing: border-box;
+    text-align: center;
+}
+#confirmBox .button {
+    background-color: #ccc;
+    display: inline-block;
+    border-radius: 3px;
+    border: 1px solid #aaa;
+    padding: 2px;
+    text-align: center;
+    width: 80px;
+    cursor: pointer;
+}
+#confirmBox .button:hover
+{
+    background-color: #ddd;
+}
+#confirmBox .message
+{
+    text-align: left;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.jfgiLogTable{
+    width:100% !impo
+}
+
+
+.jfgiSetupTable{
+    text-align:center;
+}
+
+
+.jfgi_main th {
+    background-color: rgba(0,0,0,.075);
+}
+
+.div#wpbody {
+    width: 100% !important;
+}
+
+
+
+.div#wpbody td, .div#wpbody th {
+    border: 1px solid #dee2e6;
+       padding: .75rem !important;
+}
+
+.div#wpbody td, .div#wpbody th {
+    border-left-width: 0 !important;
+}
+.div#wpbody thead th {
+    border-bottom: none !important;
+}
+
+.jfgiSetupTable {
+    background-clip: border-box;
+  
+    background: white;
+
+        box-shadow: 0 1px 4px 0 rgba(0,0,0,.1);
+}
+ul.subsubsub{padding-left:22px;}
+
+ul.subsubsub {
+    margin: 0;
+    padding:0;
+}
+.widefat th {
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
